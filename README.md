@@ -27,7 +27,7 @@ Default config:
 
 ``` yaml
 menu:
-  Home: /
+#  Home: /
   Archives: /archives
 
 excerpt_link: Read More
@@ -41,7 +41,7 @@ widgets:
   - blogroll
 
 blogrolls:
-  - bruce sha's hexo blog: http://ibruce.info
+  - bruce MoGeek's hexo blog: https://owlwinter.github.io
 
 fancybox: true
 
@@ -63,7 +63,7 @@ rss:
 
 [Hexo]: http://zespia.tw/hexo/
 [modernist theme]: http://github.com/heroicyang/hexo-theme-modernist
-[Demo the Theme]: http://ibruce.info
+[Demo the Theme]: https://owlwinter.github.io
 [Duoshuo]: http://duoshuo.com
 [Fancybox]: http://fancyapps.com/fancybox
 [Busuanzi]: http://busuanzi.ibruce.info
