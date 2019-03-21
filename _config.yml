@@ -1,7 +1,7 @@
 menu:
 #  Home: /
   Archives: /archives
-  Reading: /reading
+#  Reading: /reading
   About: /about
 #  Guestbook: /about
 
@@ -16,14 +16,13 @@ widgets:
 #  - blogroll
 
 blogrolls:
-  - bruce sha's hexo blog: http://ibruce.info
-  - bruce sha's busuanzi service: http://busuanzi.ibruce.info
+#  - bruce MoGeek's hexo blog: https://owlwinter.github.io
 
 fancybox: true
 
 duoshuo_shortname: buru
 
-google_analytics: true
-baidu_tongji: true
+google_analytics: false
+baidu_tongji: false
 
 rss: /atom.xml
